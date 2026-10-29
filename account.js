@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (Online-Top-up)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Online";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
